@@ -1,0 +1,10 @@
+E:\Pc_Workspace\Springboot_workspaceNew\smart-contact-manager\src\main\java\com\learncodewithdurgesh\contact\entities\UserEntity.java
+E:\Pc_Workspace\Springboot_workspaceNew\smart-contact-manager\src\main\java\com\learncodewithdurgesh\contact\controller\UserController.java
+E:\Pc_Workspace\Springboot_workspaceNew\smart-contact-manager\src\main\java\com\learncodewithdurgesh\contact\dao\UserRepository.java
+E:\Pc_Workspace\Springboot_workspaceNew\smart-contact-manager\src\main\java\com\learncodewithdurgesh\contact\configure\MyConfig.java
+E:\Pc_Workspace\Springboot_workspaceNew\smart-contact-manager\src\main\java\com\learncodewithdurgesh\contact\configure\UserDetailsServiceImpl.java
+E:\Pc_Workspace\Springboot_workspaceNew\smart-contact-manager\src\main\java\com\learncodewithdurgesh\contact\entities\ContactEntity.java
+E:\Pc_Workspace\Springboot_workspaceNew\smart-contact-manager\src\main\java\com\learncodewithdurgesh\contact\configure\CustomUserDetails.java
+E:\Pc_Workspace\Springboot_workspaceNew\smart-contact-manager\src\main\java\com\learncodewithdurgesh\contact\SmartContactManagerApplication.java
+E:\Pc_Workspace\Springboot_workspaceNew\smart-contact-manager\src\main\java\com\learncodewithdurgesh\contact\controller\HomeController.java
+E:\Pc_Workspace\Springboot_workspaceNew\smart-contact-manager\src\main\java\com\learncodewithdurgesh\contact\helper\Message.java
